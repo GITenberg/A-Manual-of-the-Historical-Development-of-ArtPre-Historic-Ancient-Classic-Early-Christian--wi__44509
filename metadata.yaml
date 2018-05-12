@@ -1,0 +1,33 @@
+_repo: A-Manual-of-the-Historical-Development-of-ArtPre-Historic-Ancient-Classic-Early-Christian--wi__44509
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44509-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zerffi, G. G. (Gustavus George)
+    aliases:
+    - Zerffi, Gustavus George
+    - Zerffi, George Gustavus
+    birthdate: 1820
+    deathdate: 1892
+    gutenberg_agent_id: '42790'
+    url: http://www.gutenberg.org/2009/agents/42790
+description: ''
+gutenberg_issued: '2013-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44509'
+  lccn: 09018303
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- History'
+- !lcc 'N'
+title: 'A Manual of the Historical Development of Art
+
+  Pre-Historic—Ancient—Classic—Early Christian; with Special Reference to Architecture,
+  Sculpture, Painting, and Ornamentation'
+url: http://www.gutenberg.org/ebooks/44509
